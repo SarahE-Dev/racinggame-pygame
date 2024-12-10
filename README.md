@@ -1,0 +1,1 @@
+This is the start of my Pygame Racing Game I am working on with my son. To start the game run 'python game.py'. You get three lives to start but can also get more while playing the game. Press P to pause the game at any time.
